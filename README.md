@@ -19,6 +19,12 @@ AI Visual Analyzer is a simple web application that detects objects in images us
 - NumPy
 - Pillow
 
+## Live Demo
+
+Try the application here:
+
+https://ai-visual-analyzer.streamlit.app/
+
 ## Installation
 
 ```bash
