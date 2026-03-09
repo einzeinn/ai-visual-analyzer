@@ -25,6 +25,10 @@ Try the application here:
 
 https://ai-visual-analyzer.streamlit.app/
 
+## Demo
+
+![AI Visual Analyzer Demo](demo.png)
+
 ## Installation
 
 ```bash
